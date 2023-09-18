@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift, SwiftUI and ViewCode with UIKit.
 - 💞️ I’m looking to collaborate on open sources projects and looking for new job opportunities in Mobile Development section.
 - 📫 How to reach me:
-  - 📧: coalajedi.ios@gmail.com
+  - 📧: feliped.dev.contato@gmail.com
   - 📞: +55 (62) 9 8464-3573
   - 🔗: [LinkedIn](https://www.linkedin.com/in/felipe-duarte-silva-26a7b21a2/)
 
