@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @felipeddev a.k.a Felipe Duarte.
-- 👀 I’m interested in Mobile Development | Web Developement | iOS Development
-- 🌱 I’m currently learning React, React Native, SwiftUI and ViewCode with UIKit.
+- 👀 I’m interested in Mobile Development | Backend Developement
+- 🌱 I’m currently learning React Native, SwiftUI and ViewCode with UIKit, and Jetpack Compose
 - 💞️ I’m looking to collaborate on open sources projects and looking for new job opportunities in Mobile Development section.
 - 📫 How to reach me:
   - 📧: feliped.dev.contato@gmail.com
   - 📞: +55 (62) 9 8464-3573
   - 🔗: [LinkedIn](https://www.linkedin.com/in/felipeddev/)
-
 ---
 <div align="center">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65d1d703cba7f7159fd61bda?variant=dark&roadmaps=flutter%2Creact-native%2Cbackend%2Candroid" alt="roadmap.sh"/></a>
   <a href="https://github.com/felipeddev" />
   <img height="200em" padding-right="2rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeddev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
   <br/>
