@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native, SwiftUI and ViewCode with UIKit, and Jetpack Compose
 - 💞️ I’m looking to collaborate on open sources projects and looking for new job opportunities in Mobile Development section.
 - 📫 How to reach me:
-  - 📧: feliped.dev.contato@gmail.com
+  - 📧: work@feliped.dev.br
   - 📞: +55 (62) 9 8464-3573
   - 🔗: [LinkedIn](https://www.linkedin.com/in/felipeddev/)
 ---
