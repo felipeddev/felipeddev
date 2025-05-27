@@ -3,7 +3,6 @@
 <h1 align="center">Hey, I'm Felipe 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20Specialist-22272E?style=for-the-badge&logo=flutter&logoColor=42a5f5">
   <img src="https://img.shields.io/badge/Flutter-22272E?style=for-the-badge&logo=flutter&logoColor=42a5f5">
   <img src="https://img.shields.io/badge/Dart-22272E?style=for-the-badge&logo=dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/React%20Native-22272E?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -12,15 +11,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dark--mode-always-22272E?style=for-the-badge&logo=github&logoColor=white">
   <a href="https://www.linkedin.com/in/felipeddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-felipeddev-22272E?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
+  <a href="mailto:work@feliped.dev.br">
+    <img src="https://img.shields.io/badge/Contact-work@feliped.dev.br-22272E?style=for-the-badge&logo=minutemailer&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/dark--mode-always-22272E?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
 
-### 🛠️ About Me
+## 👋 About
+
+I am a Software Engineer specializing in cross-platform mobile development, with hands-on expertise in Flutter, Dart, React Native, and SwiftUI. I build robust, scalable, and delightful mobile experiences with a focus on clean code, maintainability, and modern UI practices.
 
 - Software Engineer • Mobile Specialist
 - Loves building with **Flutter**, **React Native**, **SwiftUI**, and more
@@ -40,6 +44,13 @@
 
 ---
 
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/felipeddev/)
+- work@feliped.dev.br
+
+---
+
 <details>
   <summary>✨ Fun fact</summary>
   <p>
@@ -49,6 +60,10 @@
 </details>
 
 ---
+
+<p align="center">
+  <sub>Always in dark mode. Minimal UI, maximum impact.</sub>
+</p>
 <!---
 felipeddev/felipeddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
